@@ -1,0 +1,31 @@
+
+.navbar{display: flex;
+justify-content: space-around;
+align-items: center;
+list-style: none;
+}
+.nav-contain1{
+display: flex;
+}
+.nav-img{
+height: 40px;
+width: 80px;
+margin-top: 25px;
+}
+.nav-text{
+font-size: 30px;
+margin-left: 10px;
+}
+.game{
+color: #da24c1;
+}
+.nav-contain2{display: flex;}
+.m{
+    padding: 15px;
+    margin: 10px;
+font-size: 15px;
+cursor: pointer;
+}
+.m:hover{
+    color: rgb(18, 201, 214);
+}
