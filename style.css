@@ -15,17 +15,82 @@ margin-top: 25px;
 .nav-text{
 font-size: 30px;
 margin-left: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .game{
 color: #da24c1;
 }
 .nav-contain2{display: flex;}
+.fa-youtube {
+    background: white;
+    color: rgb(219, 13, 13);
+    margin-top: 25px;
+    
+}
 .m{
     padding: 15px;
     margin: 10px;
 font-size: 15px;
 cursor: pointer;
+
 }
 .m:hover{
     color: rgb(18, 201, 214);
+}
+.navber2{
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin-left: 80px;
+margin-right: 80px;
+background-color: rgb(240, 236, 232);
+}
+p{margin: 0%;
+margin: 7px;
+font-weight: 300;}
+
+button{margin-top: 15px;}
+
+.text2{
+font-size: xx-large;
+margin: auto;
+}
+.text3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 60px;
+margin: auto;
+color: #da24c1;
+margin-top: 5px;
+margin-bottom: 15px;
+}
+.grp-img{
+width: 450px;
+display: block;
+}
+.but1{
+    color: white;
+    background-color: rgb(177, 37, 130);
+    padding: 5px;
+   border-radius: 20px;
+   height: 40px;
+   width: 90px;
+   border: 2px solid rgb(135, 50, 143);
+   cursor: pointer;
+}
+.but1:hover{
+    color: rgb(9, 11, 134);
+}
+.but2{
+    color: aliceblue;
+    background-color: rgb(168, 31, 31);
+    padding: 5px;
+   border-radius: 20px;
+   height: 40px;
+   width: 90px;
+   border: 2px solid rgb(158, 172, 173);
+    cursor: pointer;
+    margin-left: 10px;
+}
+.but2:hover{
+    color: rgb(70, 52, 67);
 }
