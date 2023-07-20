@@ -47,7 +47,9 @@ background-color: rgb(240, 236, 232);
 }
 p{margin: 0%;
 margin: 7px;
-font-weight: 300;}
+font-weight: 300;
+width: 100%;
+}
 
 button{margin-top: 15px;}
 
@@ -86,11 +88,56 @@ display: block;
     padding: 5px;
    border-radius: 20px;
    height: 40px;
-   width: 90px;
+   width: 100px;
    border: 2px solid rgb(158, 172, 173);
     cursor: pointer;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .but2:hover{
     color: rgb(70, 52, 67);
+}
+.navbar3{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.grp-text{
+margin-right: 14px;
+
+}
+.last-h{
+    font-size: xx-large;
+    margin: auto;
+    color: #da24c1;
+    }
+.nav3-p{
+width: 400px;
+margin-top: 18px;
+}
+.grp-img2{
+height: 400px;
+width: 600px;
+margin-top: 20px;
+margin-left: 200px;
+}
+.but3{
+
+    color: aliceblue;
+    background-color: rgb(233, 76, 199);
+    padding: 5px;
+   border-radius: 20px;
+   height: 40px;
+   width: 100px;
+   border: 2px solid rgb(209, 118, 209);
+    cursor: pointer;
+    margin-bottom: 7px;
+}
+.but3:hover{
+color: aqua;
+}
+.q{
+    margin-top: 10px;
+font-size:20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
