@@ -169,3 +169,34 @@ width: 250px;
 width: 250px;
 font-size: 15PX;
 }
+.main-mid-contain{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.main-textbar{
+    margin-left: 400px;
+}
+.main-play-station{
+text-align: right;
+width: 210px;
+margin-bottom: 10px;
+font-size: 30px;
+}
+.main-play-station-p{
+    text-align: right;
+    width: 200px;
+    font-size: 13px;
+}
+.main-img2{
+height: 450px;
+width: 400px;
+margin-right: 80px;
+margin-top: 30px;
+}
+.main-img3{
+    height: 220px;
+position: relative;
+bottom: 205px;
+right: 50px;
+}
