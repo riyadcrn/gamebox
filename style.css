@@ -276,3 +276,73 @@ margin-left: 40px;
 height: 400px;
 width: 600px;
 }
+
+.game-icon{
+display: flex;
+margin: 60px;
+
+}
+.ic{
+    display: flex;
+   height: 60px;
+
+ border-radius: 30px;
+ 
+}
+.last{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: azure;
+    padding: 30px;
+    height: 40vh;
+    
+    }
+    .ttt{ display: flex;
+    justify-content: space-around;
+    align-items: center;background-color: black;
+    color: azure;
+    padding: 10px;
+    
+    }
+    .nun>a {
+       padding: 15px;
+       margin: 10px;
+       text-decoration: none;
+       background-color: azure;
+       border-radius: 50%;
+      }
+    .fa-facebook{color:#3B5998;
+    background-color: azure;
+    }
+    .fa-google {
+        background:  white;
+        color:#1c9c22;
+      }
+      .fa-instagram{
+        background-color: greenyellow;
+        color: red;
+      }
+      .fa-youtube {
+        background: white;
+        color: rgb(219, 13, 13);
+      }
+      .nun a i{font-size: 1em;}
+      .asd{
+    padding: 8px;
+    margin: 3px;
+    border-radius: 10%;
+    background-color: tomato;
+      }
+      .lll{
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+    height: 5vh;
+    background-color: black;
+    color: azure;
+    font-size: small;
+      }
+      
