@@ -173,6 +173,8 @@ font-size: 15PX;
     display: flex;
 align-items: center;
 justify-content: space-between;
+background-color: azure;
+margin-bottom: 0%;
 }
 .main-textbar{
     margin-left: 400px;
@@ -182,11 +184,13 @@ text-align: right;
 width: 210px;
 margin-bottom: 10px;
 font-size: 30px;
+
 }
 .main-play-station-p{
     text-align: right;
     width: 200px;
     font-size: 13px;
+    margin-bottom: 80px;
 }
 .main-img2{
 height: 450px;
@@ -205,7 +209,8 @@ right: 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
+    background-color: azure;
+   }
 .main-img-last1{
 height: 450px;
 width: 400px;
@@ -225,4 +230,49 @@ margin-left: 300px;
   width: 300px;
   margin-right: 150px;
   margin-bottom: 200px;
+}
+.parents{
+display: flex;
+background-color: #da24c1;
+}
+.par-p{
+font-size: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 40px;
+width: 800px;
+color: azure;
+ }
+.par-h{
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 40px;
+color: azure;
+}
+.but4{
+    color: aliceblue;
+    background-color: rgb(78, 70, 76);
+    padding: 5px;
+   border-radius: 20px;
+   height: 40px;
+   width: 100px;
+   border: 2px solid rgb(66, 59, 66);
+    cursor: pointer;
+    margin-bottom: 7px;
+    margin-left: 40px;
+}
+.but4:hover{
+color: aqua;
+}
+.maindiv{
+    display: flex; 
+}
+.div-text2{
+margin-top: 10px;
+font-size: 14px;
+color: azure;
+margin-left: 40px;
+}
+.last-img{
+height: 400px;
+width: 600px;
 }
