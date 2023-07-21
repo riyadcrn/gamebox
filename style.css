@@ -91,7 +91,7 @@ display: block;
    width: 100px;
    border: 2px solid rgb(158, 172, 173);
     cursor: pointer;
-    margin-left: 20px;
+    margin-left: 7px;
 }
 .but2:hover{
     color: rgb(70, 52, 67);
@@ -120,7 +120,7 @@ margin-top: 18px;
 height: 400px;
 width: 600px;
 margin-top: 20px;
-margin-left: 200px;
+margin-left: 150px;
 }
 .but3{
 
@@ -141,4 +141,31 @@ color: aqua;
     margin-top: 10px;
 font-size:20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-first-contain{
+text-align: center;
+margin-top: 50px;
+}
+.main-text{
+font-size: 35px;
+margin: 0%;
+margin-bottom: 15px;
+}
+.main-first-p{
+font-weight: bold;
+font-size: 13px;
+}
+.main-img-contain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40PX 40PX;
+}
+.main-images{
+height: 300px;
+width: 250px;
+}
+.game-pic-text{
+width: 250px;
+font-size: 15PX;
 }
